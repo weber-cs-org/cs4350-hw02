@@ -1,4 +1,4 @@
-# Homework 02 - Points **55**
+# Homework 02 - Points **60**
 
 ## Instructions
 
