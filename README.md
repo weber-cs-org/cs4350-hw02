@@ -1,4 +1,4 @@
-# Homework 02 - Points **55**
+# Homework 02 - Points **60**
 
 ## Instructions
 
@@ -23,7 +23,7 @@
 - Change the home page title tag to say `Twig - Homework #2`.
 - Change the 404 page to say `You don't find Chuck Norris, Chuck Norris finds you!` with this [image](https://www.mrctv.org/sites/default/files/uploads/chucknorris.jpg) below the text.  *Do not worry about alignment*.
     - **NOTE**: Resize the image to reasonable dimensions.
-    - **NOTE**: To see the 404 page **navigate** to `http://localhost:8888/not-here`;
+    - **NOTE**: To see the 404 page **navigate** to `http://localhost:8080/not-here`;
     - Why is the 404 page in the browser different than the acceptance test?
 
 #### Create a New Twig Template with a Filter and Function
